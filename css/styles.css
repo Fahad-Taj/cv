@@ -1,0 +1,98 @@
+body{
+    text-align: center;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+
+div{
+    margin-top: 0;
+}
+
+h1{
+    font-size: 80px;
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2{
+  padding-top: 10px;
+  margin-top: 0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-paragraph{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 40px;
+}
+
+.top-container{
+  background-color: #B9E0FF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  
+}
+
+.bottom-container{
+  background-color: #6C4AB6;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.selfie{
+  width: 400px;
+  border-radius: 50%;
+}
+
+.profile{
+  background-color: #FAF7F0;
+}
+
+.skill-image-1, .skill-image-2{
+  border-radius: 50%;
+}
+
+.skill-image-3{
+  width: 20%;
+}
+
+.skills{
+  background-color: #B9E0FF;
+}
+
+.temp-hr{
+  margin: 0;
+}
+
+.footer-link{
+  margin-top: 0;
+}
+
+.linkedin-image{
+  width: 15%;
+}
+
+.instagram-image{
+  vertical-align: top;
+  width: 12%;
+}
